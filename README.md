@@ -2,6 +2,8 @@
 
 This project demonstrates fetching and displaying data using JavaScript, including weather, cryptocurrency, and random nature images.
 
+![Screenshot 2024-10-22 004105](https://github.com/user-attachments/assets/10eb13be-3389-4c0f-9a22-57940319e807)
+
 ## Features
 
 - Fetches and displays random nature images from the Unsplash API.
