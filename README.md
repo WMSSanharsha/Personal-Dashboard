@@ -2,7 +2,7 @@
 
 This project demonstrates fetching and displaying data using JavaScript, including weather, cryptocurrency, and random nature images.
 
-![Screenshot 2024-![Screenshot 2024-10-22 004548](https://github.com/user-attachments/assets/8ccc1e18-5af8-4cc8-ab06-0f9e6819fa63)
+![Screenshot 2024-10-22 004548](https://github.com/user-attachments/assets/8ccc1e18-5af8-4cc8-ab06-0f9e6819fa63)
 
 ## Features
 
